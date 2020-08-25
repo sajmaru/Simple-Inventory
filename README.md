@@ -1,4 +1,4 @@
-# Simple-Inventory📦📱
+# Virtual-Inventory📦📱
 A smart tool for managing a product inventory record purchased inventory, manage suppliers, view available stock, record sales, view analytics. It uses a bunch of a off-the-shelf software; the result is something that:
 
 1. is better than using a spreadsheet;
